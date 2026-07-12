@@ -140,17 +140,6 @@ export default api;
 
 ---
 
-## Screenshots
-
-Add screenshots of:
-
-* Dashboard
-* Clients
-* Hotels
-* Contracts
-
----
-
 ## Author
 
 **Sagnik Dandapat**
